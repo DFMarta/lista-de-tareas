@@ -1,0 +1,15 @@
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(10, 167, 120);
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
+
+.btn-delete {
+   background-color: #db4848;
+   border-color: #a80707;
+}
+
+.btn-add {
+    background: #52e065;
+    border-color: #2b9639;
+}
